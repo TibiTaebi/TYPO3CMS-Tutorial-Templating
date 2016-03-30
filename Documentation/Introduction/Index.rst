@@ -48,7 +48,7 @@ Skill level
 ^^^^^^^^^^^
 
 This tutorial assumes you are a beginner-level site developer. It contains step by step instructions,
-to help you learh how to create your first website with TYPO3 CMS, based on the given HTML file.
+to help you learn how to create your first website with TYPO3 CMS, based on the given HTML file.
 
 This tutorial teaches you to integrate a template into the TYPO3 CMS system known as  "Integration" in the TYPO3 CMS world.
 
@@ -74,7 +74,7 @@ What's new
 
 This is the first version of this manual. It replaces the old "Modern Template Building Tutorial",
 which was originally written in 2003. Although we have tested the descriptions in this manual,
-there might still be places, which somehow are not clear or nor understandable.
+there might still be places, which somehow are not clear or not understandable.
 
 If something remains unclear when you are working through the manual, please drop us a note
 (see :ref:`Feedback <feedback>` below)!
